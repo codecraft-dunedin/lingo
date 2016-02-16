@@ -1,3 +1,6 @@
+SOME CHANGES 2016-2-16
+
+
 # Lingo: Scaling Code Quality
 
 ## Housekeeping
