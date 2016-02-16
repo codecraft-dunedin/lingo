@@ -23,6 +23,8 @@ func New() *cli.App {
 	app.CommandNotFound = commands.TenetCMD
 	app.EnableBashCompletion = true
 
+	fmt.println("Hello")
+	
 	return app
 }
 
