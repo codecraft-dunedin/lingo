@@ -1,3 +1,5 @@
+#Dan Williamson made an edit 16/02/2016
+
 # Lingo: Scaling Code Quality
 
 ## Housekeeping
