@@ -169,4 +169,4 @@ lingo add lingoreviews/imports --options blacklist_regex=".*/State"
 
 To begin writing tenets, start here: [lingo-reviews/tenets](https://github.com/lingo-reviews/tenets).
 
-VOTE BERNIE SANDERS!!!!!!!
+VOTE BERNIE SANDERS!!!!!!!!
