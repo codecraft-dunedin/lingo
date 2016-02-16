@@ -11,7 +11,8 @@ See [here](https://medium.com/@jessemeek/not-learning-the-lingo-how-a-bad-perfor
 
 ### Install Lingo
 
-Lingo is a CLI tool written in Go. To build the binary from source:
+Lingo is a nice tool written in Go. To build the binary from source:
+Bob was here! 
 
 ```bash
 go get github.com/lingo-reviews/lingo
