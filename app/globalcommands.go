@@ -22,6 +22,7 @@ var globalCommands = []cli.Command{
 	commands.SetupAutoCompleteCMD,
 	commands.CoprCMD,
 	commands.ConfigCMD,
+//test run
 
 	// commands.OptionsCMD,
 	// commands.ImportCMD,
