@@ -16,6 +16,7 @@ func main() {
 			if e, ok := err.(*errors.Err); ok {
 				log.Println(e.Underlying())
 				fmt.Println(e.Underlying())
+				log.Println("#WhatWouldMileyDo")
 				os.Exit(1)
 			}
 		}
