@@ -1,5 +1,5 @@
 #! /bin/bash
-
+# Added by vibnwis for github tutorial
 # to install, append the following line to ~/.bashrc
 # PROG=lingo source ~/go/src/github.com/lingo-reviews/lingo/scripts/bash_autocomplete.sh
 
