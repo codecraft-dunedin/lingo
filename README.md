@@ -13,6 +13,8 @@ See [here](https://medium.com/@jessemeek/not-learning-the-lingo-how-a-bad-perfor
 
 ### Install Lingo
 
+Hi
+
 Lingo is a CLI tool written in Go. To build the binary from source:
 It even sometimes works :-)
 Lingo is a nice tool written in Go. To build the binary from source:
